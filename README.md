@@ -1,6 +1,6 @@
 # phoenix (phoenix)
 
-phoenix_app
+phoenix_app: https://phoenix-two-iota.vercel.app/#/
 
 ## Install the dependencies
 ```bash
